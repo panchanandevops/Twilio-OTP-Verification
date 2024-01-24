@@ -2,7 +2,7 @@
 
 Example of using Twilio to send OTP verification code to a user and verifying the code.
 ## Project Overview Through a Diagram
-
+![](./Diagram/Diagram.png)
 
 ## Setup
 
